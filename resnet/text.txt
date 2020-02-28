@@ -1,0 +1,3 @@
+this is a two class identifier ie during siezure and no siezure.
+the classifier works pretty good at some point getting validation accuracy
+above 89. which is good for a CNN model.
