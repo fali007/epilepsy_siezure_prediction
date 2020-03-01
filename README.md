@@ -21,3 +21,6 @@ we used MIT CHB dataset for this project.
      iii) In above two methods we used both our own CNN method and Transfer learning method with Resnet Backbone model(our own classifier layer)
           Resnet - gave better results.
      iv) We also tried 2- class classifire for detection- During siezure and non siezure. Which gave really satisfactory results.
+   5) We build our own resnet network to train our dataset on it which gave us best results training accuracy-86% testing accuracy - 85.5%
+   
+   for dataset and questions mail me felixpv007@gmail.com
