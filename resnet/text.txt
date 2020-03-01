@@ -1,3 +1,7 @@
 this is a two class identifier ie during siezure and no siezure.
 the classifier works pretty good at some point getting validation accuracy
 above 89. which is good for a CNN model.
+
+"Resnet50 trained" is the best model so far
+
+for dataset and questions email me felixpv007@gamil.com
